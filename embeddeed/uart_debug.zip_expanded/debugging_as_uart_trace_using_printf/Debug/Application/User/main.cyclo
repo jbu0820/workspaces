@@ -1,0 +1,7 @@
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/main.c:74:5:main	1
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/main.c:123:6:SystemClock_Config	3
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/main.c:166:6:HAL_TIM_PeriodElapsedCallback	3
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/main.c:179:6:trace_process	3
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/main.c:197:6:timertick_process	2
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/main.c:211:1:__io_putchar	1
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/main.c:225:6:Error_Handler	1

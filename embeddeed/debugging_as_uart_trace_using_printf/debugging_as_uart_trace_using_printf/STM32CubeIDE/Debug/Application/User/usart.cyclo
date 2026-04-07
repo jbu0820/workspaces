@@ -1,0 +1,10 @@
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:47:6:MX_USART2_UART_Init	2
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:84:6:HAL_UART_MspInit	2
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:117:6:HAL_UART_MspDeInit	2
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:143:1:__io_putchar	1
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:152:6:usart2_IsFullQueue	2
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:161:6:usart2_EnQueue	2
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:183:6:usart2_IsEmptyQueue	2
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:191:9:usart2_DeQueue	1
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:197:6:HAL_UART_RxCpltCallback	7
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/usart.c:230:6:Uart_user_inst	3

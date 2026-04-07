@@ -1,0 +1,6 @@
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/main.c:74:5:main	8	static
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/main.c:123:6:SystemClock_Config	88	static
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/main.c:166:6:HAL_TIM_PeriodElapsedCallback	16	static
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/main.c:179:6:trace_process	16	static
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/main.c:197:6:timertick_process	8	static
+C:/Users/user14/workspaces/embeddeed/debugging_as_uart_trace_using_printf/debugging_as_uart_trace_using_printf/Src/main.c:227:6:Error_Handler	4	static,ignoring_inline_asm

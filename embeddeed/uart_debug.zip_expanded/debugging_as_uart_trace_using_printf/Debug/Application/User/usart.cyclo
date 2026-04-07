@@ -1,0 +1,8 @@
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/usart.c:37:6:MX_USART2_UART_Init	2
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/usart.c:68:6:HAL_UART_MspInit	2
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/usart.c:101:6:HAL_UART_MspDeInit	2
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/usart.c:127:6:usart2_IsFullQueue	2
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/usart.c:136:6:usart2_EnQueue	2
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/usart.c:152:6:usart2_IsEmptyQueue	2
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/usart.c:160:9:usart2_DeQueue	1
+C:/Users/taeho/Prj/debugging_as_uart_trace_using_printf/Src/usart.c:166:6:HAL_UART_RxCpltCallback	2
