@@ -1,0 +1,1 @@
+/opt/microchip/avr-gcc/bin/avr-gcc -mmcu=atmega328p -DF_CPU=16000000UL -Os -g -flto -fuse-linker-plugin -lm -Wl,-Map=/home/user14/workspaces/atmega328p/build/atmega328p.map,--cref -Wl,--gc-sections -Xlinker -print-memory-usage CMakeFiles/atmega328p.elf.dir/main.c.obj -o atmega328p.elf 

@@ -1,0 +1,49 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Upload to ATmega128A (AVRISP mkII)",
+            "type": "shell",
+            "command": "/usr/bin/avrdude",
+            "args": [
+                "-C",
+                "/etc/avrdude.conf",
+                "-v",
+                "-u",
+                "-p",
+                "atmega128a",
+                "-c",
+                "avrisp2",
+                "-P",
+                "/dev/ttyUSB0",
+                "-b",
+                "115200",
+                "-U",
+                "flash:w:build/atmega128a.hex:i"
+            ]
+        },
+        {
+            "type": "cppbuild",
+            "label": "C/C++: avr-gcc 활성 파일 빌드",
+            "command": "/opt/microchip/avr-gcc/bin/avr-gcc",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "디버거에서 생성된 작업입니다."
+        }
+    ]
+}

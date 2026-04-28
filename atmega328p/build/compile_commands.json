@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/user14/workspaces/atmega328p/build",
+  "command": "/opt/microchip/avr-gcc/bin/avr-gcc -DF_CPU=16000000UL -I/home/user14/workspaces/atmega328p/src -I/home/user14/workspaces/atmega328p/src/ap -I/home/user14/workspaces/atmega328p/src/bsp -I/home/user14/workspaces/atmega328p/src/hw -I/home/user14/workspaces/atmega328p/src/common -mmcu=atmega328p -DF_CPU=16000000UL -Os -g -std=gnu11 -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega328p.elf.dir/main.c.obj -c /home/user14/workspaces/atmega328p/main.c",
+  "file": "/home/user14/workspaces/atmega328p/main.c",
+  "output": "CMakeFiles/atmega328p.elf.dir/main.c.obj"
+}
+]
